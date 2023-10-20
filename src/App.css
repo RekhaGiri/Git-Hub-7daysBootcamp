@@ -21,20 +21,20 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:balck;
 }
 
 .App-link {
   color: #61dafb;
 }
-.box{
+/* .box{
    background: linear-gradient(to right, #7f53ac,#657ced);
   color:white;
   padding: 1rem 2rem;
   border-radius: 10px;
   height:95%;
   width:80%;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
