@@ -1,13 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import ImageGallery from './component/imageGallery';
+// import SignIn from "./components2/signIn.jsx";
+import SignIn from "./components2/signIn";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-        <ImageGallery/>
-      </header>
+    <div className="App">      
+      <SignIn></SignIn>
     </div>
   );
 }
